@@ -21,15 +21,6 @@
 
 - React, Styled components, React Router Dom, HTML, CSS, Figma.
 
-### Nome dos integrantes: 
-- Bruna Vitória Oliveira de Sousa
-- Douglas Henrique Ferreira Barbosa
-- Wesliane Silva Vieira
-
-### O que aprendi
-
-Douglas: - Apartir desse projeto passei a me sentir mais confortavel com manipulações de array, reforcei bastante o uso de renderização condicional usando props pelo styled components e ganhei mais experiencia com uma API mais complexa.
-
 ### Imagens
 
 ![image](https://user-images.githubusercontent.com/103120880/181880330-8fdc405b-8a87-43d2-99f7-96adf57b5625.png)
